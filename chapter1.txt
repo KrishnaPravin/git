@@ -2,5 +2,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Mauris porta pretium nisi.
 Integer rhoncus nisl sed porttitor ornare.
 Mauris magna purus, pharetra tincidunt tincidunt vel, semper vitae ipsum.
-Maecenas vitae metus dictum, efficitur nisi id, auctor augue.
 
