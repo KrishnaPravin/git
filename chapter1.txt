@@ -3,6 +3,5 @@ Mauris porta pretium nisi.
 Integer rhoncus nisl sed porttitor ornare.
 Mauris magna purus, pharetra tincidunt tincidunt vel, semper vitae ipsum.
 Maecenas vitae metus dictum, efficitur nisi id, auctor augue.
-Nam tincidunt ac risus sit amet fermentum.
 Curabitur ac risus massa.
 
